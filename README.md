@@ -49,7 +49,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/mermaidbetter.git
+git clone https://github.com/htd-1/mermaidbetter.git
 cd mermaidbetter
 
 # 安装依赖
